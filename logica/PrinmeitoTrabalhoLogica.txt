@@ -1,0 +1,69 @@
+1- As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia, e R$ 1,00 se forem compradas pelo menos 12. Escreva um programa que leia o número de maçãs compradas, calcule e escreva o custo total da compra. 
+
+
+2 - Ler o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano.
+
+
+3- Ler três valores (considere que não serão lidos valores iguais) e escrevê-los em ordem crescente. 
+
+
+4- Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa. Sabendo-se que ele recebe uma comissão de 3% sobre o total das vendas até R$ 1.500,00 e 5% se ultrapassar este valor, calcular e escrever o seu salário total. 
+
+
+5- Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'. 
+
+
+6- Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'. 
+
+
+7 - Faça um algoritmo que leia um número N e imprima “F1”, “F2” ou “F3”, conforme a   condição:
+
+    1) F1”, se N <= 10 
+
+    2) “F2”, se N > 10 e N <= 100 
+
+    3) “F3”, se n > 100 
+
+
+8) Considere que o último concurso vestibular apresentou três provas: Português, Matemática e Conhecimentos Gerais. Considerando que para cada candidato tem-se um registro contendo o seu nome e as notas obtidas em cada uma das provas, construa um algoritmo que forneça: 
+
+    1) o nome e as notas em cada prova do candidato 
+
+    2) a média do candidato 
+
+    3) uma informação dizendo se o candidato foi aprovado ou não. 
+
+Considere que um candidato é aprovado se sua média for maior que 7.0 e se não apresentou nenhuma nota abaixo de 5.0 .
+
+
+9- Faça um algoritmo que leia os valores A, B e C. Mostre uma mensagem que informe se a soma de A com B é menor, maior ou igual a C. 
+
+
+
+10- Uma empresa produz três tipos de peças mecânicas: parafusos, porcas e arruelas. Têm-se os preços unitários de cada tipo de peça e sabe-se que sobre estes preços incidem descontos de 10% para porcas, 20% para parafusos e 30% para arruelas. Escreva um algoritmo que peça pro usuário informar o valor unitário de cada uma das peças e calcule o valor total da compra de um cliente. Deve ser mostrado o nome do cliente. O número de cada tipo de peça que o mesmo comprou, o total de desconto e o total a pagar pela compra. 
+
+
+11- Uma empresa irá dar um aumento de salário aos seus funcionários de acordo com a categoria de cada empregado. O aumento seguirá a seguinte regra: 
+
+    1) Funcionários das categorias A, C, F, e H ganharão 10% de aumento sobre o salário;  
+
+    2) Funcionários das categorias B, D, E, I, J e T ganharão 15% de aumento sobre o salário;  
+
+    3) Funcionários das categorias K e R ganharão 25% de aumento sobre o salário;  
+
+    4) Funcionários das categorias L, M, N, O, P, Q e S ganharão 35% de aumento sobre o salário;  
+
+    5) Funcionários das categorias U, V, X, Y, W e Z ganharão 50% de aumento sobre o salário. 
+
+Faça um algoritmo que escreva nome, categoria e salário reajustado de cada empregado. 
+
+
+12- Um hotel cobra R$ 60.00 a diária e mais um valor de serviços. Tal valor de serviços é de: 
+
+    1) R$ 5.50 por diária, se o número de diárias for maior que 15;  
+
+    2) R$ 6.00 por diária, se o número de diárias for igual a 15;  
+
+    3) R$ 8.00 por diária, se o número de diárias for menor que 15. 
+
+Construa um algoritmo que mostre o nome e o total da conta de um cliente. 

@@ -1,0 +1,113 @@
+1. Escreva um programa que leia o código de um determinado produto e mostre sua classificação. Utilize a tabela abaixo como referência:
+
+- Código 1, "Alimento não perecível"
+
+- Código 2, "Alimento perecível"
+
+- Código 3, "Vesturário"
+
+- Código 4, "Limpeza"
+
+
+
+2. Dada um letra, escreva na tela se esta letra é uma vogal ou uma consoante.
+
+
+
+3. Escreva um programa que receba um mês (em número) e retorne o número de dias existentes neste mês.
+
+- Escreva "28 dias", para mês: 2
+
+- Escreva "30 dias", para os meses: 4, 6, 9, 11
+
+- Escreva "31 dias", para os meses: 1, 3, 5, 7, 8, 10, 12
+
+
+
+4. Crie um programa que lê o conceito de um aluno e imprima seu significado, de acordo com a tabela abaixo.
+
+Caso seja informado um conceito inexistente, deve ser exibida uma mensagem de erro.
+
+Tabela:
+
+- Conceito "A", imprimir "Excelente"
+
+- Conceito "B", imprimir "Ótimo"
+
+- Conceito "C", imprimir "Bom"
+
+- Conceito "D", imprimir "Regular"
+
+- Conceito "E", imprimir "Ruim"
+
+- Conceito "F", imprimir "Nos vemos no ano que vem"
+
+- Para qualquer valor diferente dos conceios acima, mostrar mensagem "Conceito inválido!"
+
+
+
+5. Escreva um programa que receba dois números reais (ou seja, float ou double). Em seguida, receba também um operador que deve ser +, -, * ou /, e então realize a operação indicada pelo operador sobre os valores lidos
+
+e imprima o resultado.
+
+
+
+6. Escreva um programa que receba um ano com 4 dígitos e diga se o ano informado é bissexto ou não.
+
+Para um ano ser bissexto ele precisa:
+
+- Ser divisível por 4 e não ser divisível por 100
+
+- Ou ser divisível por 400
+
+Exemplo: ((anoDigitado % 4 == 0 && anoDigitado % 100 != 0) || anoDigitado % 400 == 0)
+
+
+
+7. Desenvolva um algoritmo que efetue a leitura de um valor inteiro e informe se o número é múltiplo de 3.
+
+Obs: para um valor ser múltiplo por 3, o resto da divisão deste número por 3 deve ser igual à 0.
+
+
+
+8. Desenvolva um algoritmo que efetue a leitura de um valor inteiro e informe se o mesmo é maior que 100.
+
+
+
+9. Desenvolva um algoritmo que valide se uma pessoa pode tirar ou não carteira de motorista.
+
+Obs: Pode tirar a carteira de motorista maiores quem tiver 18 anos ou mais.
+
+
+
+10. Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor, além disso, o algoritmo deve mostrar se o antecessor é par ou ímpar, positivo ou negativo.
+
+
+
+11. Ler 3 valores (considere que não serão informados valores iguais) e escreva o maior deles
+
+
+
+12. Ler o nome de 2 times e o número de gols marcados na partida (para cada time). Escrever o nome do vencedor. Caso não haja vencedor deverá ser impressa a palavra EMPATE. 
+
+
+
+13. O Detran do estado do SC, precisa de um sistema que efetue o cálculo de multas dos motoristas infratores. Faça um programa que leia a velocidade de um carro e a velocidade máxima para a rua, calcule e mostre as multas conforme tabela abaixo:
+
+- Informe 50 reais se estiver até 10km/h acima da velocidade da rua; 
+
+- Informe 100 reais se estiver entre 11km/h e 50km/h acima da velocidade da rua; 
+
+- Informe 300 reais se estiver acima de 51km/h da velocidade da rua;
+
+
+
+14. Escreva um programa que leia 3 valores, ordene-os de forma crecente e imprima-os e também imprima a soma e a subtração destes 3 números.
+
+
+
+15. Escreva um programa que receba dois valores e imprima a multiplicação destes valores.
+
+
+
+16. Esvcreva um programa que receba dois valores e imprima a divisão destes valores.

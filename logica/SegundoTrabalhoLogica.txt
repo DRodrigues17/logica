@@ -1,0 +1,32 @@
+1. Faça um programa que receba dois valores e imprima a soma deles.
+2. Faça um programa que receba dois valores e imprima a multiplicação deles e depois imprima se o resultado da multiplicação é maior que 100 ou não.
+
+3. Faça um programa que peça para o usuário digitar seu primeiro nome e depois peça para o usuário digitar seu sobrenome. Então imprima: "Olá, seu nome é <primeiro nome> <sobrenome>."
+
+4. Faça um programa que receba dois números inteiros e imprima:
+
+- "São pares" quando os dois números forem pares
+
+- "São ímpares", quando os dois números não forem ímpares
+
+5. Faça um programa que receba 4 notas de um aluno e imprima a média da disciplina.
+
+6. Faça um programa que receba 3 números e imprima o maior deles.
+
+7. Faça um programa que leia um número e imprima o seu antecessor e seu sucessor.
+
+8. Faça um programa que leia um número e imprima sua tabuada.
+
+9. Faça o programa que leia a temperatura em graus Celsius imprima-a convertida para Fahrenheit.
+
+- Utilizar fórmula F = (9 * C + 160) / 5, onde F é o valor convertido em Fahrenheit e C é o valor em Celsius
+
+10. Faça um programa que receba dois números e imprima:
+
+- "Os dois números são maiores que 100", se os dois números forem maiores que 100
+
+- "Somente <valorA> é maior que 100", se somente o primeiro valor digitado for maior que 100
+
+- "Somente <valorB> é maior que 100", se somente o segundo valor digitado for maior que 100
+
+- "Os dois valores são menores que 100", se os dois valores forem menores que 100
